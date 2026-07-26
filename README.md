@@ -13,7 +13,8 @@
 
 ## About Me
 
-I'm a **Computer Engineering student** at [Tecnológico de Costa Rica](https://www.tec.ac.cr/) with **2+ years of professional experience** designing RESTful APIs, optimizing system architecture, and shipping scalable backend services for real-world clients.
+I'm a **Computer Engineering student** at [Tecnológico de Costa Rica](https://www.tec.ac.cr/) with **3+ years of professional experience** building full-stack applications — from designing RESTful APIs and optimizing backend architecture to shipping polished, production-ready UIs. I've delivered real-world software across the stack for actual clients, not just side projects.
+
 
 Beyond the day-to-day engineering work, I'm currently conducting research on the **impact of Generative AI in rural businesses and education** — exploring how AI can unlock meaningful access for underserved communities in Latin America.
 
