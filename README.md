@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Anthony+Arias+%F0%9F%91%8B;Backend+Developer+%7C+Full-Stack+Engineer;AI+Researcher+%7C+Open+to+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7D9AB3&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Anthony+Arias!;Software+Engineer+|+Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,16 +20,15 @@ Beyond the day-to-day engineering work, I'm currently conducting research on the
 | | |
 |---|---|
 | 🎓 | Computer Engineering @ TEC, Costa Rica |
-| 💼 | 2+ years professional backend experience |
-| 🤖 | AI researcher — Generative AI in rural contexts |
-| 🌎 | Based in Costa Rica · Open to remote opportunities |
-| 📬 | anthonyjariasr@gmail.com |
+| 💼 | 3+ years professional fullstack experience |
+| 🤖 | AI researcher - Generative AI in rural contexts |
+| 🌎 | Based in Costa Rica - Open to remote opportunities |
+| 📬 | anthonyariasr@outlook.com |
 
 ---
 
 ## What I'm Building
-
-- **Academic management platform** — FastAPI + PostgreSQL backend powering a full university workflow system
+- **[CCM Nexus](https://github.com/anthonyariasr/ccm-nexus)** — an unofficial PWA companion for CCM Cinemas (Costa Rica) built with Next.js 16, React 19, TypeScript & Tailwind CSS 4.
 - **Mobile & web apps** — React Native, Next.js, and TailwindCSS for cross-platform experiences
 - **AI research project** — studying how LLMs and generative tools affect rural businesses and education in Costa Rica
 
@@ -67,17 +66,8 @@ Beyond the day-to-day engineering work, I'm currently conducting research on the
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonyariasr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyariasr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</div>
-
----
-
 ## Let's Connect
 
 I'm always open to new opportunities, interesting problems, and good conversations about tech, AI, or software architecture.
 
-**[LinkedIn →](https://www.linkedin.com/in/anthonyariasr/)** · **anthonyjariasr@gmail.com** · Check out my projects below 👇
+**[LinkedIn →](https://www.linkedin.com/in/anthonyariasr/)** · **anthonyariasr@outlook.com** · Check out my projects below 👇
